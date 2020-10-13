@@ -1,2 +1,2 @@
 # ansible-inventory
-sample ansible inventoryh
+sample ansible inventory
